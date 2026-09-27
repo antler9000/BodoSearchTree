@@ -463,10 +463,23 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------->
 ## 6. 구현 참고
+### 6.1. C++ 관련
 "SW코딩 역량을 위한 C++ 프로그래밍" (홍봉희 지음 / 정익사 출판 / 2017년 발행)
 
+<br>
+
+
+
+
+### 6.2. 자료구조 관련
 "C C++로 배우는 자료구조론" (주우석 지음 / 한빛아카데미 출판 / 2015년 발행)
 
+<br>
+
+
+
+
+### 6.3. 이동 시맨틱 관련
 "Welcome back to C++ - Modern C++" (Microsoft Learn / 2026년 7월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
 
@@ -476,6 +489,12 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 "Rvalue reference declarator: &&" (Microsoft Learn / 2026년 6월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170)
 
+<br>
+
+
+
+
+### 6.4. 예외 안전성 관련
 "Modern C++ best practices for exceptions and error handling" (Microsoft Learn / 2026년 7월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/errors-and-exception-handling-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/errors-and-exception-handling-modern-cpp?view=msvc-170)
 
@@ -494,7 +513,16 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 "How to: Create and use unique_ptr instances" (Microsoft Learn / 2026년 6월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances?view=msvc-170)
 
+<br>
+
+
+
+
+### 6.5. 측정 관련
 "Find memory leaks with the CRT library" (Microsoft Learn / 2026년 6월 열람)  
 [https://learn.microsoft.com/en-us/cpp/c-runtime-library/find-memory-leaks-using-the-crt-library?view=msvc-170](https://learn.microsoft.com/en-us/cpp/c-runtime-library/find-memory-leaks-using-the-crt-library?view=msvc-170)
 
 <br>
+
+
+
