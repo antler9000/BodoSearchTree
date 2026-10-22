@@ -117,7 +117,7 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
     bool Retrieve(std::int64_t targetKey, DataType& outData) const;
 
     //RETURN: targetKey와 같은 키를 가진 노드가 존재하지 않는 경우에 false를 반환함
-    void Remove(std::int64_t targetKey);
+    bool Remove(std::int64_t targetKey);
 
     void RemoveTree() noexcept;
 
