@@ -147,7 +147,7 @@ public:
 
 protected:
 
-	//NOTE: 상위 메서드가 삽입 메서드인 경우에 unique_ptr 인자를 rvalue로 받아 전달해야 하므로, lvalue와 rvalue 둘 다 전달하도록 포워딩을 사용함
+	//NOTE: 상위 메서드가 삽입 메서드인 경우에는 rvalue인 unique_ptr 인자가 오므로, lvalue와 rvalue 둘 다 전달할 수 있는 포워딩을 사용함
 	//NOTE: 상위 메서드와 하위 작업 메서드가 const 메서드인 경우를 지원하기 위한 const 버전의 제너릭 메서드 버전도 같이 있음
 	template <typename FuncObjectType, typename ArgumentType>
 	bool GenericSearch(FuncObjectType funcObject, std::int64_t targetKey, ArgumentType&& argument);

@@ -111,7 +111,7 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 ```cpp
     //RETURN: newKey와 같은 키의 노드가 이미 존재하는 경우에 false를 반환함
     template <typename InsertDataType = DataType>
-    bool Insert(std::int64_t newKey, InsertDataType&& newData)
+    bool Insert(std::int64_t newKey, InsertDataType&& newData);
 
     //RETURN: targetKey와 같은 키를 가진 노드가 존재하지 않는 경우에 false를 반환함
     bool Retrieve(std::int64_t targetKey, DataType& outData) const;
