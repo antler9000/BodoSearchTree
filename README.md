@@ -1,8 +1,6 @@
 # BodoSearchTree
 C++을 이용하여 구현한 BST와 AVL 트리입니다.  
 
-자료구조 프로그래밍을 연습하는 것을 목표로 하였습니다.
-
 현재 BST와 AVL 트리의 주요 메서드를 구현한 뒤 프로젝트를 마감하였습니다.
 
 <br>
@@ -479,38 +477,52 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 
 
 
-### 6.3. 이동 시맨틱 관련
-"Welcome back to C++ - Modern C++" (Microsoft Learn / 2026년 7월 열람)  
-[https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+### 6.3. STL 관련
+"뇌를 자극하는 C++ STL" (공동환 지음 / 한빛미디어 출판 / 2012년 발행)
 
-"Move Constructors and Move Assignment Operators (C++)" (Microsoft Learn / 2026년 6월 열람)  
-[https://learn.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=msvc-170)
-
-"Rvalue reference declarator: &&" (Microsoft Learn / 2026년 6월 열람)  
-[https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170)
+"C++ Standard Library Containers" (Microsoft Learn / 2026년 10월 열람)  
+[https://learn.microsoft.com/en-us/cpp/standard-library/stl-containers?view=msvc-170](https://learn.microsoft.com/en-us/cpp/standard-library/stl-containers?view=msvc-170)
 
 <br>
 
 
 
 
-### 6.4. 예외 안전성 관련
-"Modern C++ best practices for exceptions and error handling" (Microsoft Learn / 2026년 7월 열람)  
+### 6.4. 이동 시맨틱 관련
+"Welcome back to C++ - Modern C++" (Microsoft Learn / 2026년 10월 열람)  
+[https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+
+"Move Constructors and Move Assignment Operators (C++)" (Microsoft Learn / 2026년 10월 열람)  
+[https://learn.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=msvc-170)
+
+"Rvalue reference declarator: &&" (Microsoft Learn / 2026년 10월 열람)  
+[https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170)
+
+"Lvalues and Rvalues (C++)" (Microsoft Learn / 2026년 10월 열람)  
+[https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170)
+
+<br>
+
+
+
+
+### 6.5. 예외 안전성 관련
+"Modern C++ best practices for exceptions and error handling" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/errors-and-exception-handling-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/errors-and-exception-handling-modern-cpp?view=msvc-170)
 
-"Exceptions and Stack Unwinding in C++" (Microsoft Learn / 2026년 7월 열람)  
+"Exceptions and Stack Unwinding in C++" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/exceptions-and-stack-unwinding-in-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/exceptions-and-stack-unwinding-in-cpp?view=msvc-170)
 
-"How to: Design for exception safety" (Microsoft Learn / 2026년 6월 열람)  
+"How to: Design for exception safety" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/how-to-design-for-exception-safety?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/how-to-design-for-exception-safety?view=msvc-170)
 
-"Object lifetime and resource management (RAII)" (Microsoft Learn / 2026년 6월 열람)   
+"Object lifetime and resource management (RAII)" (Microsoft Learn / 2026년 10월 열람)   
 [https://learn.microsoft.com/en-us/cpp/cpp/object-lifetime-and-resource-management-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/object-lifetime-and-resource-management-modern-cpp?view=msvc-170)
 
-"Smart pointers (Modern C++)" (Microsoft Learn / 2026년 7월 열람)  
+"Smart pointers (Modern C++)" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
 
-"How to: Create and use unique_ptr instances" (Microsoft Learn / 2026년 6월 열람)  
+"How to: Create and use unique_ptr instances" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances?view=msvc-170](https://learn.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances?view=msvc-170)
 
 <br>
@@ -518,8 +530,8 @@ AVL 트리는 키가 정렬된 노드들이 삽입될 때 이진 탐색 트리�
 
 
 
-### 6.5. 측정 관련
-"Find memory leaks with the CRT library" (Microsoft Learn / 2026년 6월 열람)  
+### 6.6. 측정 관련
+"Find memory leaks with the CRT library" (Microsoft Learn / 2026년 10월 열람)  
 [https://learn.microsoft.com/en-us/cpp/c-runtime-library/find-memory-leaks-using-the-crt-library?view=msvc-170](https://learn.microsoft.com/en-us/cpp/c-runtime-library/find-memory-leaks-using-the-crt-library?view=msvc-170)
 
 <br>
